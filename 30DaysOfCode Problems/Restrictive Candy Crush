@@ -1,0 +1,4 @@
+Given a string S and an integer K, the task is to reduce the string by applying the following operation:
+Choose a group of K consecutive identical characters and remove them. The operation can be performed any number of times until it is no longer possible
+
+
