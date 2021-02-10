@@ -1,0 +1,13 @@
+void printLeaders(int arr[], int size) 
+{ 
+    int maxright =  arr[size-1];
+    cout << maxright << " "; 
+    for (int i = size-2; i >= 0; i--) 
+    { 
+        if (maxright <= arr[i])  
+        {            
+            maxright = arr[i]; 
+            cout << maxright << " "; 
+        } 
+    }     
+} 
