@@ -1,2 +1,2 @@
-# GFG-DSA-Self-Paced
-It's consisited of tracks from Dsa Self Paced course from GeeksForGeeks.
+Tracking my GEEKSFORGEEKS questions from 6th Feb,21 onwards.
+It motivates me to keep going on.
